@@ -8,6 +8,7 @@ This repository contains the source code for a Nonlinear Model Predictive Contro
 _Features of the developed controller_
 
 **Installation:**
+
 To use this NMPC controller, clone this repository to your local machine:
 ```
 git clone https://github.com/frmadeira/nmpc_controller.git
@@ -15,10 +16,13 @@ cd nmpc_controller
 ```
 
 **Usage and configuration:**
+
 _Clear instructions on how to use the code_
 
 **Contact:**
+
 For any questions regarding the project, its usage or any suggestions, feel free to contact: francisco.raposo.madeira@tecnico.ulisboa.pt
 
 **Acknowledgements:**
+
 This project was developed as part of a Master's thesis for Instituto Superior Técnico, University of Lisbon.
