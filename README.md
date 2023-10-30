@@ -1,11 +1,11 @@
 # nmpc_controller
 **Overview:**
 
-This repository contains the source code for a Nonlinear Model Predictive Controller (NMPC) designed for trajectory tracking and obstacle avoidance. The controller can perform avoiding action from both static and moving obstacles. It is developed using Python 3.10.11. and is intended for use as a local planner for a differential drive robot in a factory environment, though adaptable for use with different scenarios and vehicle dynamics.
+This repository contains the source code for a Nonlinear Model Predictive Control (NMPC) controller designed for trajectory tracking and obstacle avoidance. The controller can perform avoiding action from both static and moving obstacles. It is developed using Python 3.10.11. and is intended for use as a local planner for a differential drive robot in a factory environment, though adaptable for use with different scenarios and vehicle dynamics.
 
 **Features:**
 
-_Features of the developed controller_
+The developed controller can accurately track a feasible trajectory and avoid both static and moving obstacles. It is agnostic to the shape and dimension of the obstacles and needs no _a priori_ knowledge of its trajectory. Further, it is easily tunable to better accommodate the specifics of the use case considered.
 
 **Installation:**
 
