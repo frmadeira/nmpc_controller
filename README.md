@@ -9,9 +9,8 @@ _Features of the developed controller_
 
 **Installation:**
 To use this NMPC controller, clone this repository to your local machine:
-'''
-git clone https://github.com/frmadeira/nmpc_controller.git
-cd nmpc_controller'''
+```git clone https://github.com/frmadeira/nmpc_controller.git
+cd nmpc_controller```
 
 **Usage and configuration:**
 _Clear instructions on how to use the code_
