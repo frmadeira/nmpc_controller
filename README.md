@@ -17,7 +17,7 @@ cd nmpc_controller
 
 **Usage and configuration:**
 
-_Clear instructions on how to use the code_
+To use the code considering a differential drive vehicle, please only change the variables in the function variable_definition(). These variables are as follows: controller's operating frequency (f); prediction horizon length (N); cost function weighting coefficient (lambda); vehicle's wheel-base (L); vehicle's maximum velocity (v_max); vehicle's maximum acceleration (a_max); safety distance (d_safe); voxel cell's dimensions (voxel_size); maximum range for occupancy map (max_range); minimum value for view-window of occupancy map (data_min); maximum value for view-window of occupancy map (data_max) and distance from reference that triggers replanning (d_replan)
 
 **Contact:**
 
